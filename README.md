@@ -16,8 +16,17 @@ This repository contains the research artifacts for **"Real-Time AI Code Securit
 
 **Harshith Vaddiparthy**  
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1234--5678-green)](https://orcid.org/0000-0002-1234-5678)  
-[![Email](https://img.shields.io/badge/Email-harshith%40research.com-blue)](mailto:harshith@research.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-harshith--vaddiparthy-blue)](https://linkedin.com/in/harshith-vaddiparthy)
+[![Email](https://img.shields.io/badge/Email-hi%40harshith.io-blue)](mailto:hi@harshith.io)  
+
+### 🔗 Connect With Me
+[![GitHub](https://img.shields.io/badge/GitHub-harshith--eth-black?logo=github)](https://github.com/harshith-eth)
+[![Twitter](https://img.shields.io/badge/Twitter-@harshithv-1DA1F2?logo=twitter)](https://twitter.com/harshithv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harshith--vaddiparthy-0077B5?logo=linkedin)](https://linkedin.com/in/harshith-vaddiparthy)
+[![YouTube](https://img.shields.io/badge/YouTube-@harshithvaddiparthy-FF0000?logo=youtube)](https://youtube.com/@harshithvaddiparthy)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-W--bXoUMAAAAJ-4285F4?logo=google-scholar)](https://scholar.google.com/citations?user=W-bXoUMAAAAJ&hl=en)
+[![Medium](https://img.shields.io/badge/Medium-@harshith--vaddiparthy-12100E?logo=medium)](https://harshith-vaddiparthy.medium.com)
+[![Forbes](https://img.shields.io/badge/Forbes-Technology%20Council-1E90FF?logo=forbes)](https://councils.forbes.com/profile/Harshith-Vaddiparthy-Head-Growth-JustPaid/5747f601-ca29-4255-a79b-3518154819a7)
+[![Calendar](https://img.shields.io/badge/Calendar-Schedule%20Meeting-green?logo=calendly)](https://cal.com/harshith)
 
 ## 🔬 Research Abstract
 
@@ -160,9 +169,9 @@ This research is released under the MIT License. See [LICENSE](LICENSE) for deta
 
 For questions about this research:
 
-- 📧 **Email**: harshith@research.com
+- 📧 **Email**: [hi@harshith.io](mailto:hi@harshith.io)
 - 🔗 **ORCID**: [0000-0002-1234-5678](https://orcid.org/0000-0002-1234-5678)
-- 💼 **LinkedIn**: [harshith-vaddiparthy](https://linkedin.com/in/harshith-vaddiparthy)
+- 📅 **Schedule Meeting**: [cal.com/harshith](https://cal.com/harshith)
 
 ---
 
