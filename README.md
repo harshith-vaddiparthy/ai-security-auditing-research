@@ -26,7 +26,7 @@ This repository contains the research artifacts for **"Real-Time AI Code Securit
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-W--bXoUMAAAAJ-4285F4?logo=google-scholar)](https://scholar.google.com/citations?user=W-bXoUMAAAAJ&hl=en)
 [![Medium](https://img.shields.io/badge/Medium-@harshith--vaddiparthy-12100E?logo=medium)](https://harshith-vaddiparthy.medium.com)
 [![Forbes](https://img.shields.io/badge/Forbes-Technology%20Council-1E90FF?logo=forbes)](https://councils.forbes.com/profile/Harshith-Vaddiparthy-Head-Growth-JustPaid/5747f601-ca29-4255-a79b-3518154819a7)
-[![Calendar](https://img.shields.io/badge/Calendar-Schedule%20Meeting-green?logo=calendly)](https://cal.com/harshith)
+[![Calendar](https://img.shields.io/badge/Calendar-Schedule%20Meeting-green?logo=calendly)](https://cal.com/harshithvaddiparthy)
 
 ## 🔬 Research Abstract
 
@@ -171,7 +171,7 @@ For questions about this research:
 
 - 📧 **Email**: [hi@harshith.io](mailto:hi@harshith.io)
 - 🔗 **ORCID**: [0000-0002-1234-5678](https://orcid.org/0000-0002-1234-5678)
-- 📅 **Schedule Meeting**: [cal.com/harshith](https://cal.com/harshith)
+- 📅 **Schedule Meeting**: [cal.com/harshithvaddiparthy](https://cal.com/harshithvaddiparthy)
 
 ---
 
