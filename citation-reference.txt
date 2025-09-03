@@ -1,0 +1,9 @@
+CITATION FOR IEEE PAPER:
+
+Previous Work Reference:
+H. Vaddiparthy, "Self-Debugging AI: A Comprehensive Analysis of Claude 4.1 Sonnet's Code Generation and Error Resolution Capabilities," Research Square, 2024. [Online]. Available: https://www.researchsquare.com/article/rs-7467553/v1
+
+How to Reference in New Paper:
+"This work builds upon our previous meta-experimental methodology [1] where we demonstrated AI's systematic debugging capabilities. We now extend this approach to security vulnerability detection and automated patch generation."
+
+[1] H. Vaddiparthy, "Self-Debugging AI: A Comprehensive Analysis of Claude 4.1 Sonnet's Code Generation and Error Resolution Capabilities," Research Square, 2024. [Online]. Available: https://www.researchsquare.com/article/rs-7467553/v1

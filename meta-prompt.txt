@@ -1,0 +1,191 @@
+=== PROMPT 1: CREATE FIRST VULNERABLE FILE ===
+Copy and paste this:
+
+You are conducting a security research experiment building on previous work: "Self-Debugging AI: A Comprehensive Analysis of Claude 4.1 Sonnet's Code Generation and Error Resolution Capabilities" (https://www.researchsquare.com/article/rs-7467553/v1).
+
+This research extends that debugging methodology to focus on AI-powered security auditing.
+
+CREATE FILE 1 - SQL INJECTION:
+- Create a Python web application file with SQL injection vulnerability
+- Name it: "vulnerable_sql_injection.py" 
+- Include: Flask app with login function that's vulnerable to SQL injection
+- Add detailed comments explaining exactly what makes it vulnerable
+- Make it look like real production code with proper imports and structure
+- Show the specific line(s) where the vulnerability exists
+
+Format your response with clear file name and complete code.
+
+=== PROMPT 2: CREATE SECOND VULNERABLE FILE ===
+After Claude creates file 1, use this:
+
+Perfect! Now create the second vulnerable file.
+
+CREATE FILE 2 - XSS VULNERABILITY:
+- Create a Python web application file with XSS vulnerability
+- Name it: "vulnerable_xss.py"
+- Include: Flask app that displays user input without sanitization
+- Add detailed comments explaining the XSS vulnerability
+- Show the specific line(s) where the vulnerability exists
+- Make it realistic with proper imports and structure
+
+IMPORTANT: Save this file in the Security-Research/code/ folder
+
+Format your response with clear file name and complete code.
+
+=== PROMPT 3: CREATE THIRD VULNERABLE FILE ===
+After Claude creates file 2, use this:
+
+Excellent! Now create the third vulnerable file.
+
+CREATE FILE 3 - INSECURE AUTHENTICATION:
+- Create a Python file with weak authentication vulnerability
+- Name it: "vulnerable_auth.py"
+- Include: Login system with weak password handling (plaintext storage, weak hashing, etc.)
+- Add detailed comments explaining the authentication flaws
+- Show the specific line(s) where vulnerabilities exist
+- Make it realistic with proper imports and structure
+
+Format your response with clear file name and complete code.
+
+=== PROMPT 4: CREATE FOURTH VULNERABLE FILE ===
+After Claude creates file 3, use this:
+
+Great work! Now create the fourth vulnerable file.
+
+CREATE FILE 4 - PATH TRAVERSAL:
+- Create a Python file with path traversal vulnerability
+- Name it: "vulnerable_path_traversal.py"
+- Include: File upload/download functionality vulnerable to directory traversal
+- Add detailed comments explaining the path traversal vulnerability
+- Show the specific line(s) where the vulnerability exists
+- Make it realistic with proper imports and structure
+
+Format your response with clear file name and complete code.
+
+=== PROMPT 5: CREATE FIFTH VULNERABLE FILE ===
+After Claude creates file 4, use this:
+
+Perfect! Now create the final vulnerable file.
+
+CREATE FILE 5 - COMMAND INJECTION:
+- Create a Python file with command injection vulnerability
+- Name it: "vulnerable_command_injection.py"
+- Include: System that executes user input as shell commands
+- Add detailed comments explaining the command injection vulnerability
+- Show the specific line(s) where the vulnerability exists
+- Make it realistic with proper imports and structure
+
+Format your response with clear file name and complete code.
+
+=== PROMPT 6: START SECURITY AUDIT ===
+After all 5 files are created, use this:
+
+Now switch roles - you are a cybersecurity expert conducting a security audit.
+
+AUDIT FILE 1 (vulnerable_sql_injection.py):
+- Scan the SQL injection file you created
+- Generate a detailed vulnerability report with:
+  * Vulnerability type and severity (Critical/High/Medium/Low)
+  * Exact line numbers where issues exist
+  * Potential impact and attack scenarios
+  * OWASP classification
+  * Risk assessment
+- Format as a professional security report
+- Title the report: "Security Audit Report - SQL Injection Vulnerability"
+
+=== PROMPT 7: AUDIT SECOND FILE ===
+After Claude completes first audit, use this:
+
+Excellent security analysis! Now audit the second file.
+
+AUDIT FILE 2 (vulnerable_xss.py):
+- Scan the XSS vulnerability file you created
+- Generate a detailed vulnerability report with:
+  * Vulnerability type and severity
+  * Exact line numbers where issues exist
+  * Potential impact and attack scenarios
+  * OWASP classification
+  * Risk assessment
+- Format as a professional security report
+- Title the report: "Security Audit Report - XSS Vulnerability"
+
+=== PROMPT 8: AUDIT THIRD FILE ===
+After Claude completes second audit, use this:
+
+Great analysis! Now audit the third file.
+
+AUDIT FILE 3 (vulnerable_auth.py):
+- Scan the authentication vulnerability file you created
+- Generate detailed vulnerability report with same format as previous
+- Title the report: "Security Audit Report - Authentication Vulnerability"
+
+=== PROMPT 9: AUDIT FOURTH FILE ===
+After Claude completes third audit, use this:
+
+Perfect! Now audit the fourth file.
+
+AUDIT FILE 4 (vulnerable_path_traversal.py):
+- Scan the path traversal vulnerability file you created
+- Generate detailed vulnerability report with same format as previous
+- Title the report: "Security Audit Report - Path Traversal Vulnerability"
+
+=== PROMPT 10: AUDIT FIFTH FILE ===
+After Claude completes fourth audit, use this:
+
+Excellent! Now audit the final file.
+
+AUDIT FILE 5 (vulnerable_command_injection.py):
+- Scan the command injection vulnerability file you created
+- Generate detailed vulnerability report with same format as previous
+- Title the report: "Security Audit Report - Command Injection Vulnerability"
+
+=== PROMPT 11: CREATE FIRST SECURE FIX ===
+After all audits are complete, use this:
+
+Now create secure versions of all files. Start with the first one.
+
+CREATE SECURE VERSION 1:
+- Take the vulnerable_sql_injection.py file
+- Create a fixed version named: "secure_sql_injection.py"
+- Fix all SQL injection vulnerabilities using:
+  * Parameterized queries
+  * Input validation
+  * Proper error handling
+- Show BEFORE/AFTER code comparison
+- Explain exactly what you changed and why
+- Add comments showing the security improvements
+
+=== PROMPT 12: CREATE SECOND SECURE FIX ===
+After Claude creates first fix, use this:
+
+Excellent security fix! Now create the second secure version.
+
+CREATE SECURE VERSION 2:
+- Take the vulnerable_xss.py file  
+- Create a fixed version named: "secure_xss.py"
+- Fix all XSS vulnerabilities using proper input sanitization
+- Show BEFORE/AFTER code comparison
+- Explain exactly what you changed and why
+- Add comments showing the security improvements
+
+=== PROMPT 13-15: CONTINUE SECURE FIXES ===
+Repeat this pattern for files 3, 4, 5:
+
+Perfect! Now create secure version [3/4/5]:
+- Take the vulnerable_[auth/path_traversal/command_injection].py file
+- Create fixed version named: "secure_[auth/path_traversal/command_injection].py"
+- Fix all vulnerabilities with proper security measures
+- Show BEFORE/AFTER comparison
+- Explain changes and add security comments
+
+=== PROMPT 16: FINAL SUMMARY ===
+After all fixes are complete:
+
+Create a comprehensive research summary with:
+1. List of all 5 vulnerability types discovered
+2. Security audit statistics (severity levels, OWASP categories)
+3. Summary of all fixes implemented
+4. Performance metrics of the AI security auditing process
+5. Recommendations for automated security auditing systems
+
+Format this as a professional research conclusion.
