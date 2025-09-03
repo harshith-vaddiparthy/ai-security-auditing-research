@@ -20,7 +20,7 @@ This repository contains the research artifacts for **"Real-Time AI Code Securit
 
 ### 🔗 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-harshith--eth-black?logo=github)](https://github.com/harshith-eth)
-[![Twitter](https://img.shields.io/badge/Twitter-@harshithv-1DA1F2?logo=twitter)](https://twitter.com/harshithv)
+[![Twitter](https://img.shields.io/badge/Twitter-@harshithio-1DA1F2?logo=twitter)](https://twitter.com/harshithio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-harshith--vaddiparthy-0077B5?logo=linkedin)](https://linkedin.com/in/harshith-vaddiparthy)
 [![YouTube](https://img.shields.io/badge/YouTube-@harshithvaddiparthy-FF0000?logo=youtube)](https://youtube.com/@harshithvaddiparthy)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-W--bXoUMAAAAJ-4285F4?logo=google-scholar)](https://scholar.google.com/citations?user=W-bXoUMAAAAJ&hl=en)
