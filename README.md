@@ -1,6 +1,6 @@
 # AI-Powered Security Auditing Research
 
-[![Research](https://img.shields.io/badge/Research-AI%20Security-blue)](https://github.com/harshith-eth/ai-security-auditing-research)
+[![Research](https://img.shields.io/badge/Research-AI%20Security-blue)](https://github.com/harshith-vaddiparthy/ai-security-auditing-research)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-green)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![DOI](https://img.shields.io/badge/DOI-Pending-orange)](https://doi.org/pending)
@@ -19,7 +19,7 @@ This repository contains the research artifacts for **"Real-Time AI Code Securit
 [![Email](https://img.shields.io/badge/Email-hi%40harshith.io-blue)](mailto:hi@harshith.io)  
 
 ### 🔗 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-harshith--eth-black?logo=github)](https://github.com/harshith-eth)
+[![GitHub](https://img.shields.io/badge/GitHub-harshith--vaddiparthy-black?logo=github)](https://github.com/harshith-vaddiparthy)
 [![Twitter](https://img.shields.io/badge/Twitter-@harshithio-1DA1F2?logo=twitter)](https://twitter.com/harshithio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-harshith--vaddiparthy-0077B5?logo=linkedin)](https://linkedin.com/in/harshith-vaddiparthy)
 [![YouTube](https://img.shields.io/badge/YouTube-@harshithvaddiparthy-FF0000?logo=youtube)](https://youtube.com/@harshithvaddiparthy)
@@ -179,6 +179,6 @@ For questions about this research:
 
 **⭐ If this research helps your work, please consider starring this repository! ⭐**
 
-[![GitHub stars](https://img.shields.io/github/stars/harshith-eth/ai-security-auditing-research?style=social)](https://github.com/harshith-eth/ai-security-auditing-research/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/harshith-vaddiparthy/ai-security-auditing-research?style=social)](https://github.com/harshith-vaddiparthy/ai-security-auditing-research/stargazers)
 
 </div>
